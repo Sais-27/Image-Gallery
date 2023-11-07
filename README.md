@@ -16,8 +16,8 @@ Welcome to the Image Gallery project
 
 
 ## Files
-- `index.html` - The HTML file contains the structure of the flipping card UI.
-- `style.css` - The CSS file includes the styles and animations for the flipping card.
+- `index.html` - The HTML file contains the structure of the Image card UI.
+- `style.css` - The CSS file includes the styles and animations.
 
 ## HowtoUse
 1. Clone this repository to your local machine using Git:
